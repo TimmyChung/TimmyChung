@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Timmy. I'm a data scientist.
